@@ -1,4 +1,6 @@
 Example Voting App
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/7e4a1b73-32af-4b08-bf85-318a0bf21d44.svg?orgId=288883884012)](https://app.soluble.cloud/repos/details/github.com/dasalebr/example-voting-app?orgId=288883884012)  
 =========
 
 Getting started
